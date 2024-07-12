@@ -29,7 +29,7 @@ My primary research interest lies in the design and analysis of clinical trials.
 
 <span class='anchor' id='publications-and-preprints'></span>
 # Publications & Preprints
-- Wang, Q., Duerr, A., & Gao, F. (2024+). Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test. *Pre-print available on [arXiv](https://arxiv.org/abs/2311.10848)*.
+- **Wang, Q.**, Duerr, A., & Gao, F. (2024+). Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test. *Pre-print available on [arXiv](https://arxiv.org/abs/2311.10848)*.
 
 - Juraska, M., Early, A. M., ... **Wang, Q.**, ... & Neafsey, D. E. (2024). Genotypic analysis of RTS, S/AS01E malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5–17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial. *The Lancet Infectious Diseases*.
 
