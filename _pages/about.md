@@ -30,7 +30,7 @@ My research interest is mainly in the design and analysis of clinical trials. I 
 <span class='anchor' id='publications-and-preprints'></span>
 # Publications & Preprints
 
-
+- Li, Y., Bai, X., Wang, Q., & Ma, Z. (2022). A big data approach to cargo type prediction and its implications for oil trade estimation. <em>Transportation Research Part E: Logistics and Transportation Review</em>, 165, 102831.
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
