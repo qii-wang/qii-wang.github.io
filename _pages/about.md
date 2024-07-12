@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in the Department of Biostatistics and Bioinformatics at Duke University. Prior to Duke, I received my MS in Statistics at the University of Washington and BEng in Industrial Engineering at Tsinghua University.
 
-My research interest is mainly in the design and analysis of clinical trials. I also have research experiences in causal inference and machine learning, and I am interested in intersecting these areas and clinical trials. The applied areas that motivate me the most are those that disproportionally influence marginalized communities, such as HIV prevention and treatment.
+My primary research interest lies in the design and analysis of clinical trials. I am also interested in intergrating clinical trials with other fields, such as causal inference and machine learning, to improve current methods in clinical trial research. I am particularly motivated by the applied areas that significantly affect marginalized communities, such as HIV and social stigma.
 
 
 <!--# 🔥 News-->
@@ -40,14 +40,16 @@ My research interest is mainly in the design and analysis of clinical trials. I 
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # Education
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *08/2024 - 05/2028 (expected)*, PhD in Biostatistics, Duke University, Durham, NC, USA.
+- *09/2022 - 03/2024*, MS in Statistics, Univeristy of Washington, Seattle, WA, USA. 
+- *08/2018 - 06/2022*, BEng in Industrial Engineering, Tsinghua University, Beijing, China.
 
 # Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *06/2024*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the 2024 ICSA Applied Statistics Symposium, the International Chinese Statistical Association, Nashville, TN, USA.
+- *07/2023*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the HIV Prevention Trials Network faculty meeting, Fred Hutchinson Cancer Center, Seattle, WA, USA.
 
 <!--# 💻 Internships-->
 <!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
 # CV
+You can find my CV [here](https://drive.google.com/file/d/13oLMIuOwYzikRyrmj4YYgWGA9mlAUoKJ/view?usp=sharing).
