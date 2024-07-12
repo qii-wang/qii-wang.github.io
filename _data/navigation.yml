@@ -7,19 +7,19 @@ main:
 #    url: "/#-news"
 
   - title: "Publications & Preprints"
-    url: "/#-publications-and-preprints"
-#
+    url: "/#publications-and-preprints"
+
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
 #  - title: "Internships"
 #    url: "/#-internships"
 
   - title: "CV"
-    url: "/#-cv"
+    url: "/#cv"
