@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qi Wang"
+title                    : "Qi Wang (王奇)"
 description              : "PhD student in biostatistics"
 repository               : "qii-wang/qii-wang.github.io"
 google_scholar_stats_use_cdn : true
