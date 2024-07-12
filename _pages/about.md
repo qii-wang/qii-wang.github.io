@@ -27,6 +27,11 @@ My primary research interest lies in the design and analysis of clinical trials.
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# Education
+- *08/2024 - 05/2028 (expected)*, PhD in Biostatistics, Duke University, Durham, NC, USA.
+- *09/2022 - 03/2024*, MS in Statistics, Univeristy of Washington, Seattle, WA, USA. 
+- *08/2018 - 06/2022*, BEng in Industrial Engineering, Tsinghua University, Beijing, China.
+
 <span class='anchor' id='publications-and-preprints'></span>
 # Publications & Preprints
 - **Wang, Q.**, Duerr, A., & Gao, F. (2024+). Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test. *Pre-print available on [arXiv](https://arxiv.org/abs/2311.10848)*.
@@ -38,11 +43,6 @@ My primary research interest lies in the design and analysis of clinical trials.
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-# Education
-- *08/2024 - 05/2028 (expected)*, PhD in Biostatistics, Duke University, Durham, NC, USA.
-- *09/2022 - 03/2024*, MS in Statistics, Univeristy of Washington, Seattle, WA, USA. 
-- *08/2018 - 06/2022*, BEng in Industrial Engineering, Tsinghua University, Beijing, China.
 
 # Invited Talks
 - *06/2024*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the 2024 ICSA Applied Statistics Symposium, the International Chinese Statistical Association, Nashville, TN, USA.
