@@ -28,7 +28,7 @@ My research interest is mainly in the design and analysis of clinical trials. I 
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 <span class='anchor' id='publications-&-preprints'></span>
-# Publications & Preprints
+# Publications and Preprints
 
 
 
