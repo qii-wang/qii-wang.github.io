@@ -52,4 +52,4 @@ My primary research interest lies in the design and analysis of clinical trials.
 <!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
 # CV
-You can find my CV [here](https://drive.google.com/file/d/13oLMIuOwYzikRyrmj4YYgWGA9mlAUoKJ/view?usp=sharing).
+You can find my CV [here](https://drive.google.com/file/d/16agNW0XYzNgSdBjoxxtdVRurw7ImWDfU/view?usp=sharing).
