@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in the Department of Biostatistics and Bioinformatics at Duke University. Prior to Duke, I received my MS in Statistics at the University of Washington and BEng in Industrial Engineering at Tsinghua University.
 
-My primary research interest lies in the design and analysis of clinical trials. I am also interested in intergrating clinical trials with other fields, including causal inference and machine learning, to improve current methods in clinical trial research. I am particularly motivated by the applied areas that significantly affect marginalized communities, such as HIV and social stigma.
+My primary research interest lies in the design and analysis of cluster randomized trials (CRTs). I am also interested in intergrating CRTs with other fields, including causal inference and survival analysis, to improve current methods in CRT research. I am particularly motivated by the applied areas that significantly affect marginalized communities and the least developed countries, such as HIV, social stigma, and child mortality.
 
 
 <!--# 🔥 News-->
