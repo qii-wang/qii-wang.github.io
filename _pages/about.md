@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in the Department of Biostatistics and Bioinformatics at Duke University. Prior to Duke, I received my MS in Statistics at the University of Washington and BEng in Industrial Engineering at Tsinghua University.
 
-My primary research interest lies in the design and analysis of cluster randomized trials (CRTs). I am also interested in integrating CRTs with other fields, including causal inference and survival analysis, to improve current methods in CRT research. I am particularly motivated by the applied areas that significantly affect marginalized communities and the least developed countries, such as HIV, social stigma, and child mortality.
+My primary research interest lies in the design and analysis of cluster randomized trials (CRTs). I am also interested in integrating CRTs with other fields, including causal inference and survival analysis, to improve current methods in CRT research. I am particularly motivated by the applied areas that significantly affect marginalized communities and the least developed countries, such as HIV, social stigma, and mental health.
 
 
 <!--# 🔥 News-->
@@ -45,6 +45,7 @@ My primary research interest lies in the design and analysis of cluster randomiz
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # Invited Talks
+- *11/2025*, "Sample Size Calculations of Cluster-Randomized Trials with Diagnostic Accuracy Based on Generalized Estimating Equations", the 11th Annual Meeting on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Birmingham, UK.
 - *06/2024*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the 2024 ICSA Applied Statistics Symposium, the International Chinese Statistical Association, Nashville, TN, USA.
 - *07/2023*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the HIV Prevention Trials Network faculty meeting, Fred Hutchinson Cancer Center, Seattle, WA, USA.
 
